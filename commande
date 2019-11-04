@@ -1,0 +1,2 @@
+frames to video
+ffmpeg -framerate 30 -start_number XXX -i %d.png video.avi
